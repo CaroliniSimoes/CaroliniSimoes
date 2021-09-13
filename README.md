@@ -1,4 +1,4 @@
-### <img align="left" alt="Carol" height="100" width="100" src="https://cdn.discordapp.com/attachments/886971104525168661/886975382920777748/giphy_7.gif"> <br><br><br><br><br><br>
+### <img align="center" alt="Carol" height="30" width="30" src="https://cdn.discordapp.com/attachments/886971104525168661/886989290024865842/ezgif.com-gif-maker_2.gif"> Software Developer Jr
 
 
 ###
@@ -9,9 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinisimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinisimoes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+  
+ <img align="right" alt="Carol" height="130" width="130" src="https://cdn.discordapp.com/attachments/886971104525168661/886971263329906778/giphy_4.gif">
+  
  ###
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Cah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cah-php" height="30" width="30" src="https://cdn.discordapp.com/attachments/886971104525168661/886987506187395072/CORE-PHP-BASICS-20210817.png">
   <img align="center" alt="Cah-B" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
@@ -22,8 +24,6 @@
   <img align="center" alt="Cah-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Cah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cah-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-  <img align="right" alt="Carol" height="130" width="130" src="https://cdn.discordapp.com/attachments/886971104525168661/886971263329906778/giphy_4.gif">
   
   <img align="center" alt="Cah-Unity" height="30" width="30" src="https://cdn.discordapp.com/attachments/886971104525168661/886987772274020372/unity-icon-png-23.jpg">
   <img align="center" alt="Cah-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
