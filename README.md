@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/CaroliniSimoes">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=carolinisimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinisimoes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=carolinisimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinisimoes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <img align="right" alt="Carol" height="130" width="130" src="https://cdn.discordapp.com/attachments/886971104525168661/886971263329906778/giphy_4.gif">
