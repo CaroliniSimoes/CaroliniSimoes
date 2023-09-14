@@ -1,4 +1,4 @@
-### <img align="center" alt="Carol" height="30" width="30" src="https://cdn.discordapp.com/attachments/886971104525168661/886989290024865842/ezgif.com-gif-maker_2.gif"> Juninho em processo de crescimento, aguarde
+### <img align="center" alt="Carol" height="30" width="30" src="https://cdn.discordapp.com/attachments/886971104525168661/886989290024865842/ezgif.com-gif-maker_2.gif"> Oin, sou a prof. Carol, analista full stack à quase 10 anos e teacher à 5.
 
 
 ###
